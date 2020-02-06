@@ -107,6 +107,7 @@ main {
 
 .wrapper-right {
   width: 30%;
+  min-width: 205px;
 }
 
 .wrapper-right span {
